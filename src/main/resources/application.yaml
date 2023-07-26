@@ -1,0 +1,6 @@
+server:
+  port: 8009
+
+rest:
+  actuator-url: http://localhost:8444/actuate
+
